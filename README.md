@@ -5,7 +5,7 @@ This is a music machine learning project by Andrew Colabella.
 This uses Midicsv/Csvmidi and
 text generation with LSTM recurrent neural networks.
 
-MidiCSV was created by John Walke
+MidiCSV was created by John Walker
 https://www.fourmilab.ch/webtools/midicsv/
 
 The LSTM Recurrent Neural Networks is based off of
