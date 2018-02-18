@@ -1,7 +1,0 @@
-#!/bin/bash
-
-for i in *.mid
-do
-    name=$(echo $i | cut -f 1 -d '.')
-    midicsv $i $name.csv
-done
